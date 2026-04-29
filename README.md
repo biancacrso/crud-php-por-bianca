@@ -3,7 +3,7 @@
 Projeto desenvolvido em PHP e MySQL com operações CRUD
 (Create, Read, Update e Delete), conforme conteúdo apresentado em sala.
 
-Tecnologias:
+**Tecnologias:**
 
 - PHP
 - MySQL
